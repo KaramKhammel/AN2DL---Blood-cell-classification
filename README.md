@@ -1,1 +1,2 @@
-# AN2DL---Blood-cell-classification
+# Blood cell classification
+The use of deep learning techniques in medical imaging  has become increasingly prevalent for automating image analysis tasks. Our objective is to enhance the accuracy of identifying different types of blood cells. This project mainly revolves around the creation of deep learning models designed to classify 96x96 RGB images of blood cells. These images are categorized into 8 classes, each representing a different cell state.
